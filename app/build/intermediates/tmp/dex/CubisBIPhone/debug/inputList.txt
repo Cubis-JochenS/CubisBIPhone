@@ -1,0 +1,1 @@
+/Users/Jochen/StudioProjects/CubisBIPhone/app/build/intermediates/multi-dex/CubisBIPhone/debug/allclasses.jar
